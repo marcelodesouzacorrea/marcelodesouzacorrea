@@ -1,7 +1,7 @@
 ### Ola me chamo Marcelo Correa
 
 - 🔭Atualmente me encontro disponivel para novos desafios;
-- 🌱 Me aprofundando em PHP.
+- 🌱 Me aprofundando em NODE JS.
 
  <div>
   <a href="https://github.com/marcelodesouzacorrea">
